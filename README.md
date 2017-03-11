@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Loops and Arrays Project
+## Loops and Arrays Project Structure
 
 *Default Structure for A Basic Project*
 
